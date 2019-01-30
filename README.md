@@ -1,2 +1,2 @@
 # sizeGetter
-Get clientHeight and clientWidth
+Get clientHeight and clientWidth with javascript

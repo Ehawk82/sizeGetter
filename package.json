@@ -1,0 +1,20 @@
+{
+  "name": "sizegetter",
+  "version": "1.0.0",
+  "description": "Get clientHeight and clientWidth with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/sizeGetter.git"
+  },
+  "author": "Ehawk LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/sizeGetter/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/sizeGetter#readme"
+}
